@@ -3,7 +3,6 @@
   <a href="https://github.com/komeylkalbali/00-Authentication-template/images/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">Authentication-Template | قالب احراز هویت</h3>
 </div>
 </br>
@@ -17,7 +16,6 @@
 قالبی که امروز برای شما فراهم کرده ایم، یک فرم ورود و عضویت در سایت کاملا ساده اما خلاقانه و شیک می باشد. فرقی نمی کند که شما صاحب یک سایت فروشگاهی، شخصی یا خبری هستید! این قالب برای هر نوع وب سایت با هر زمینه فعالیتی مناسب است.
 از جمله ویژگی اساسی این قالب می توان به پویا بودن آن اشاره کرد. شما برای بکارگیری این فرم نیازی به فضای زیادی ندارید چرا که کاربران تنها با کلیک بر روی لینک پایین این فرم می توانند بین فرم ورود و عضویت جابجا شوند.
 
-
 ### برخی از ویژگی ها منحصر به فرد این قالب:
  طراحی ساده ، شیک و کاربرپسند </br>
  رعایت اصل تجربه کاربری (UX) </br>
@@ -25,22 +23,16 @@
  کامنت گذاری بخش های مورد نیاز </br>
  بکارگیری در انواع سایت ها تنها در چند دقیقه </br>
 
-  </div>
+</div>
 
-
-  <!-- CONTACT -->
 ### ارتباط:
 لینک پروژه: [https://github.com/komeylkalbali/00-Authentication-template](https://github.com/komeylkalbali/00-Authentication-template)
 
-
-  <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
 ### حمایت:
-<p align="center" mt="3"> <a  href="https://daramet.com/komeylkalbali"> <img src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png" width="330" alt="komeylkalbali"/> </a> </p>
+<p align="center" target="_blank"> <a  href="https://daramet.com/komeylkalbali"> <img src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png" width="330" alt="komeylkalbali"/> </a> </p>
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
