@@ -9,7 +9,7 @@
 <div align="right" >
   
 # پیش نمایش
-[![Product Name Screen Shot][product-screenshot]](https://github.com/komeylkalbali/00-Authentication-template/images/login-form-preview.png)
+<img src="./images/login-form-preview.png" alt="login-form-preview"/>
 
 ## فرم های عضویت و ورود
 در هر وب سایت ممکن است انواع فرم ها با قابلیت ها و کارایی های مختلف دیده شود. اما در این میان فرم عضویت و ورود به سایت، یکی از مهم ترین فرم های مورد استفاده در انواع سایت ها می باشد. شاید در کمتر سایت هایی نیازی به بکارگیری بخش عضویت و ورود به سایت نادیده گرفته شود چرا که محتوای آن سایت ها صرفا اطلاع رسانی بوده و مدیر سایت هیچگونه قصدی از جمع آوری ایمیل های کاربران را ندارد!
