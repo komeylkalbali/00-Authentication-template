@@ -1,4 +1,4 @@
-<a id="readme-top"></a>
+
 <div align="center">
   <a href="https://github.com/komeylkalbali/00-Authentication-template/images/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -11,7 +11,16 @@
 # پیش نمایش
 <img src="./images/login-form-preview.png" alt="login-form-preview"/>
 
-## فرم های عضویت و ورود
+<div align="center">
+  
+<h3>اجرای پروژه</h3>
+<a href="https://komeylkalbali.github.io/00-Authentication-template/" >
+  <image src="https://cdn-icons-png.flaticon.com/512/5361/5361007.png" width="90" height="90" color="red" alt="run"/>
+</a>
+
+</div>
+    
+  ## فرم های عضویت و ورود
 در هر وب سایت ممکن است انواع فرم ها با قابلیت ها و کارایی های مختلف دیده شود. اما در این میان فرم عضویت و ورود به سایت، یکی از مهم ترین فرم های مورد استفاده در انواع سایت ها می باشد. شاید در کمتر سایت هایی نیازی به بکارگیری بخش عضویت و ورود به سایت نادیده گرفته شود چرا که محتوای آن سایت ها صرفا اطلاع رسانی بوده و مدیر سایت هیچگونه قصدی از جمع آوری ایمیل های کاربران را ندارد!
 با این حال اگر شما سایتی دارید که بازدید کنندگان برای دسترسی به مطالب آن نیاز به عضویت و ورود به ناحیه کاربری خود دارند، لازم است که به نحوه نمایش و بکارگیری اینگونه فرم ها اهمیت بدهید.
 
